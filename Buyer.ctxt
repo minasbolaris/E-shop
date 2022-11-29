@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Buyer
+comment1.params=
+comment1.target=void\ Welcome()
+comment2.params=
+comment2.target=void\ awardBonus()
+comment3.params=
+comment3.target=void\ setbuyerCategory()
+comment4.params=
+comment4.target=void\ placeOrder()
+numComments=5
